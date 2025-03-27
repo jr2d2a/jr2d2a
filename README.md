@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ricardo Alves.
 - 👀 I’m interested in software development and chess.
-- 🌱 I’m currently learning Java, Apex and JS.
-- 💞️ I’m looking to collaborate on Salesforce Projects.
+- 🌱 I’m currently working with Apex and JS.
 - 📫 How to reach me: linkedin.com/in/jr2d2a.
